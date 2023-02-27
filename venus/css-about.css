@@ -1,0 +1,48 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-color:bisque;
+}
+h1{
+    text-align: center;
+    margin:100px;
+    font-size: 100px;
+    font-style: italic;
+    color:rgb(180, 126, 40);
+}
+.bar2{
+    background:rgb(240, 217, 188);
+    text-align:center;
+    font-size: larger;
+}
+.bar2 ul{
+    display: inline-flex;
+    list-style: none;
+    padding: 10px;
+    color:black;
+    letter-spacing: 2px;
+}
+.bar2 ul li{
+    width:200px;
+    margin:5px;
+    padding:25px;   
+}
+.bar3{
+    background:rgb(240, 217, 188);
+    text-align:center;
+
+}
+.bar3 ul{
+    display: inline-flex;
+    list-style: none;
+    padding: 10px;
+    color:black;
+    letter-spacing: 2px;
+}
+.bar3 ul li{
+    width:200px;
+    margin:5px;
+    padding:25px;   
+}
